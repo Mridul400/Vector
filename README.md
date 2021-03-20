@@ -1,3 +1,3 @@
-# Vector in C++ STL
+# Vector in C++
 Name: MRIDUL MD RAZIUL ALAM
 Student ID:20193290751
